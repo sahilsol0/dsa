@@ -2,7 +2,7 @@
 Bubble sort:
 most naive sort check two consecutive elements and swap if first > second
 
-Time- O()
+Time- O(n²)
 Space- O()
 
 [5, 4, 3, 2, 1] -> [4,5,3,2,1] -> [4,3,5,2,1] -> [4,3,2,5,1] -> [4,3,2,1,5]
