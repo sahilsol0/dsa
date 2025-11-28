@@ -37,3 +37,4 @@ if __name__ == "__main__":
     k = int(input("Enter sum: "))
     print("Res:", two_sum(inp_list, k))
     print("Res:", optimal_two_sum(inp_list, k))
+
